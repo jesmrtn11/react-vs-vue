@@ -3,5 +3,6 @@ module.exports = {
 	output: {
 		path: __dirname + "/dist",
 		filename: "react.dist.js"
-	}
+	},
+	mode: "development"
 };
