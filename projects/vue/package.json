@@ -1,0 +1,13 @@
+{
+  "name": "react-vs-vue",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jesica Martin <jesmrtn11@gmail.com>",
+  "mode": "development",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-template-compiler": "^2.5.16",
+    "vuex": "^3.0.1"
+  }
+}

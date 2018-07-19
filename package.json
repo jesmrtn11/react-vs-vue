@@ -1,0 +1,10 @@
+{
+  "name": "react-vs-vue",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jesica Martin <jesmrtn11@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
